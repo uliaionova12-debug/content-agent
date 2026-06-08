@@ -1,0 +1,7 @@
+groq
+python-dotenv
+streamlit
+requests
+pillow
+rembg
+openai
